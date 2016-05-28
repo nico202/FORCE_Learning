@@ -30,8 +30,6 @@ alpha = 1.0 # "Learning Rate"
 ggg = 1.5
 pgg = 0.1
 ggz = 1
-alpha = 1
-pgg = 0.1
 
 sigma_w = np.sqrt(1/(Ng))
 Jgz = np.random.uniform(-1, 1, Ng)
